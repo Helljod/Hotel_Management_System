@@ -1,9 +1,9 @@
-Hotel_Management_System
-This project is done by using Python
-How To Run :
-first you need install python.
-download project.
-extract project.
-double click on login.py.
+Hotel_Management_System \n
+This project is done by using Python \n
+How To Run : \n
+first you need install python. \n
+download project. \n
+extract project. \n
+double click on login.py. \n
 
-Thanks ....
+
